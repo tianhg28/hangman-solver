@@ -18,8 +18,8 @@ The Hangman Solver is a Java-based application designed to assist users in solvi
    ```
 3. **Run the Application**:
    ```bash
-   javac MainFrame.java
-   java MainFrame
+   javac HangmanMain.java
+   java HangmanMain
    ```
 4. **Follow the on-screen prompts** to input the number of letters in the word and respond to the solver's guesses.
 
