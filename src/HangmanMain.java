@@ -12,7 +12,7 @@ public class HangmanMain {
 		System.out.println("");
 		
 		// Opens the dictionary and reads the file into an arrayList
-		Scanner input = new Scanner(new File("dictionary.txt"));
+		Scanner input = new Scanner(new File("../dictionary.txt"));
 		List<String> dictionary = new ArrayList<>();
 		while (input.hasNext()) {
 			dictionary.add(input.next().toLowerCase());
