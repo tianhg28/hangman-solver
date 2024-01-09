@@ -14,10 +14,11 @@ The Hangman Solver is a Java-based application designed to assist users in solvi
 2. **Clone the Repository**:
    ```bash
    git clone https://github.com/tianhg28/hangman-solver
-   cd hangman-solver
+   cd hangman-solver/src
    ```
 3. **Run the Application**:
    ```bash
+   javac HangmanMain.java
    java HangmanMain
    ```
 4. **Follow the on-screen prompts** to input the number of letters in the word and respond to the solver's guesses.
